@@ -6,3 +6,8 @@ https://blog.csdn.net/weixin_38399962/article/details/82192340     springcloud s
 
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'Aa123456@';
 
+
+
+mysql> create user 'lrq001'@'%' identified with mysql_native_password by 'Aa123456@';
+
+
