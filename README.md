@@ -10,4 +10,4 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'Aa123456@';
 
 mysql> create user 'lrq001'@'%' identified with mysql_native_password by 'Aa123456@';
 
-
+2是全量，3新增、4修改、5删除   
